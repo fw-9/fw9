@@ -1,0 +1,33 @@
+{
+  "season": "PBA Commissioner's Cup 2026",
+  "last_updated": "2026-04-09",
+  "today_games": [
+    {
+      "team_1": "Rain or Shine Elasto Painters",
+      "team_2": "San Miguel Beermen",
+      "venue": "Philsports Arena",
+      "tip_off": "7:00 PM PHT",
+      "status": "live",
+      "quarter": 3
+    },
+    {
+      "team_1": "Blackwater Bossing",
+      "team_2": "Titan Ultra Giant Risers",
+      "venue": "Araneta Coliseum",
+      "tip_off": "4:30 PM PHT",
+      "status": "final"
+    }
+  ],
+  "standings": [
+    { "team": "San Miguel Beermen", "played": 6, "won": 5, "lost": 1, "pct": 0.833 },
+    { "team": "Barangay Ginebra", "played": 6, "won": 4, "lost": 2, "pct": 0.667 },
+    { "team": "TNT Tropang Giga", "played": 6, "won": 4, "lost": 2, "pct": 0.667 },
+    { "team": "Rain or Shine", "played": 6, "won": 3, "lost": 3, "pct": 0.500 },
+    { "team": "Blackwater Bossing", "played": 6, "won": 2, "lost": 4, "pct": 0.333 },
+    { "team": "Titan Ultra", "played": 6, "won": 1, "lost": 5, "pct": 0.167 }
+  ],
+  "top_imports": [
+    { "player": "Bol Bol", "team": "TNT Tropang Giga", "ppg": 28.4, "rpg": 12.1, "bpg": 3.8 },
+    { "player": "Jaylen Johnson", "team": "Rain or Shine", "ppg": 24.7, "rpg": 10.3, "apg": 2.5 }
+  ]
+}
